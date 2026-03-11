@@ -3,4 +3,7 @@
 * avocado
 * lemon
 * salt
+* onion
+* tomatoes
+* chili
 ## Instructions
